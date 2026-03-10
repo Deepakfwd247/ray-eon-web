@@ -1,7 +1,7 @@
 {
   "sections": {
     "main": {
-      "type": "homepage-hero",
+      "type": "main-product",
       "settings": {}
     }
   },
